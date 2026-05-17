@@ -1,4 +1,4 @@
-# Quick-Solar-Radiation-Analysis
+# Quick-Solar-Radiation-Analysis with Genetic Algorithm
 This Grasshopper Script is used for analyzing the total solar radiation of curved building envelopes.
 Note: This Grasshopper script was created with the following versions:
 Rhinoceros 8
